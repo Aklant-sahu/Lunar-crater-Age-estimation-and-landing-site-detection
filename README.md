@@ -11,7 +11,7 @@ This project can be subdivided into these main elements-
 
 The Link for the Machine Learning Model and the dataset is as follows-  
 https://drive.google.com/drive/folders/13G8GXJ8FTk-3ENHL0s5TUqFgvDxEu2qS?usp=sharing  
-
-
+![input-img](https://user-images.githubusercontent.com/88976862/192090072-3bde2d00-ae92-434b-9e6f-59a04ddc23a5.jpg)
+![light-blob](https://user-images.githubusercontent.com/88976862/192090135-af621031-126a-4e7c-823d-30de37ce7739.jpg)
 
 
